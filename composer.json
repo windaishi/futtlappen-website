@@ -8,5 +8,10 @@
             "email": "6232639+windaishi@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">= 7.4"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "v99"
+    }
 }
