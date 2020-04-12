@@ -1,0 +1,12 @@
+{
+    "name": "manuelkress/futtlappen-website",
+    "license": "proprietary",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manuel Kress",
+            "email": "6232639+windaishi@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
